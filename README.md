@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mahi 👋
 
-<!--
-**mahip16/mahip16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Computer Science student at Toronto Metropolitan University interested in software engineering, machine learning, and building data-driven applications.
 
-Here are some ideas to get you started:
+Currently:
+- Building machine learning and full-stack projects
+- Learning React, React Native, and modern web development
+- Looking for a Summer 2026 Software Engineering Co-op
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I Use
+- Languages: Python, Java, JavaScript, C
+- Frameworks: React, React Native, Expo
+- Tools: Git, GitHub, Firebase
+- Concepts: Data Structures, Machine Learning, REST APIs
+
+## Projects
+- **F1 Race Win Predictor** – ML system predicting race win probabilities from historical race data  
+- **SuppleScan** – Mobile app to verify supplement authenticity using image recognition
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/mahiptl/
