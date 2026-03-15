@@ -27,7 +27,7 @@ I'm passionate about solving real problems with software.
 
 > *Predicting Formula 1 race outcomes using 15 years of data, XGBoost, and Monte Carlo simulation*
 
-**[🔴 Live Demo](https://f1-race-predictor-9qsmeq9t4zappcnhqtkng5.streamlit.app/)** &nbsp;|&nbsp; **[📂 Repo](https://github.com/mahip16)**
+**[🔴 Live Demo](https://f1-race-predictor-taupe.vercel.app/)** &nbsp;|&nbsp; **[📂 Repo](https://github.com/mahip16/f1-race-predictor)**
 
 ```
 📊 15 years of race data   →   🤖 XGBoost model   →   🎲 10,000 Monte Carlo runs   →   🏆 Win probabilities
