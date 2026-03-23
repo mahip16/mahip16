@@ -38,7 +38,7 @@ I'm passionate about solving real problems with software.
 | 🔁 Auto-retraining | CI/CD pipeline via GitHub Actions, model updates after every Grand Prix |
 | 🧠 Feature Engineering | Rolling averages, circuit-specific stats, leakage-safe time-series splits |
 | 🎲 Simulation | 10,000 Monte Carlo runs per race for probabilistic win predictions |
-| 🌐 Deployed | Live Streamlit app, anyone can use it right now |
+| 🌐 Deployed | Live using Vercel, anyone can use it right now |
 
 **Tech:** `Python` `XGBoost` `Pandas` `NumPy` `Streamlit` `GitHub Actions` `Jolpica API` `Monte Carlo Simulation`
 
