@@ -51,6 +51,8 @@ I'm passionate about solving real problems with software.
 
 > *Mobile app that verifies supplement authenticity and flags allergens and safety risks in ingredient lists*
 
+**[📂 Repo](https://github.com/mahip16/supplement-verification-app )**
+
 - 📷 **Barcode scanning** - instant product lookup from a live database
 - 🔍 **Ingredient analysis** - flags allergens, banned substances, and safety concerns
 - 🔐 **Secure auth** - Firebase Authentication + Firestore real-time sync
