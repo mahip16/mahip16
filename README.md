@@ -14,6 +14,9 @@ I'm a Computer Science student at <b>Toronto Metropolitan University</b> who ble
 I'm passionate about solving real problems with software.
 </p>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-FF2D78?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-nu-gold.vercel.app/)
+
+
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mahiptl-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahiptl/)
