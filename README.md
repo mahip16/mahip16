@@ -14,7 +14,7 @@ I'm a Computer Science student at <b>Toronto Metropolitan University</b> who ble
 I'm passionate about solving real problems with software.
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-FF2D78?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-nu-gold.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check%20It%20Out-FF2D78?style=for-the-badge&logo=vercel&logoColor=white)](https://mahi-patel.vercel.app/)
 
 
 <br/>
