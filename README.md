@@ -57,6 +57,7 @@ I'm passionate about solving real problems with software.
 - 🔍 **Ingredient analysis** - flags allergens, banned substances, and safety concerns
 - 🔐 **Secure auth** - Firebase Authentication + Firestore real-time sync
 - 📱 **Cross-platform** - Expo (iOS + Android) from a single codebase
+- 🌐 **Deployed** - Live on Expo 
 
 **Tech:** `React Native` `Firebase` `Firestore` `Expo` `REST APIs`
 
